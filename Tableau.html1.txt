@@ -1,0 +1,18 @@
+|     |     A     |           B           |          C           |           D           |
+|-----|-----------|-----------------------|----------------------|-----------------------|
+|  1  | Anthony   |                       |                      |                       |
+|  2  | Numéro de Condition | Participant 1  | Participant 2  | Participant 3  |
+|  3  |           | 1                     | 1                    | 1                     |
+|  4  | Faible Luminosité - Musique        | (AB) 12.40           | (CD) 12.40            | (EF) 12.40            |
+|  5  | Faible Luminosité - Silence        | (AB) 15.45           | (CD) 15.45            | (EF) 15.45            |
+|  6  | Forte Luminosité - Musique         | (GH) 15.60           | (IJ) 15.60            | (KL) 15.60            |
+|  7  | Forte Luminosité - Silence         | (GH) 12.40           | (IJ) 12.40            | (KL) 12.40            |
+|  8  | Total Scores                       | 51                   | 51                    | 51                    |
+|  9  |                                   |                      |                      |                       |
+| 10  | Exemple de remplissage :           |                      |                      |                       |
+| 11  | Numéro de Condition                | Participant 1        |                      |                       |
+| 12  |                                    | 1                    |                      |                       |
+| 13  | Faible Luminosité - Musique        | (MN) 9               |                      |                       |
+| 14  | Faible Luminosité - Silence        | (MN) 14              |                      |                       |
+| 15  | Forte Luminosité - Musique         | (OP) 13              |                      |                       |
+| 16  | Forte Luminosité - Silence         | (QR) 15              |                      |                       |
